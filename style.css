@@ -1,0 +1,19 @@
+.container {
+	background-color: black;
+	color: white;
+}
+
+.container-lg {
+	background-color: pink;
+}
+
+.container-fluid {
+	background-color: green;
+}
+
+.col {
+	border-width: 2px;
+	border-color: red;
+	border-style: solid;
+}
+
